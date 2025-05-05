@@ -40,12 +40,8 @@
    -  To Run the program:
            - type: ./Banking-System 
    
-## 🔐 Sample Input
-   - Enter O or o for opening an account and T or t for the transaction: o
-   - Type s or S for saving or c or C for current: s
-   - Enter your name: John Doe
-   - Enter your father's name: David Doe
-            ...
+## 🔐 Sample Output
+   ![image alt](https://github.com/Lalit-Mohan-Cloud/Banking-System-Simulation/blob/main/image.png?raw=true) 
 
 ## 👨‍💻 Author
    - Developed by: Lalit Mohan
