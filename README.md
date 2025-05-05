@@ -36,17 +36,17 @@
    - Make sure you have a C++ compiler installed (e.g., g++).
    - open terminal:
    - To compile the program:
-                 - type: g++ Banking_System.cpp -o Banking_System
+           - type: g++ Banking_System.cpp -o Banking_System
    -  To Run the program:
-                 - type: ./Banking-System 
+           - type: ./Banking-System 
    
 ## 🔐 Sample Input
    - Enter O or o for opening an account and T or t for the transaction: o
    - Type s or S for saving or c or C for current: s
    - Enter your name: John Doe
    - Enter your father's name: David Doe
-   -         ...
+            ...
 
 ## 👨‍💻 Author
-    Developed by: Lalit Mohan
+   - Developed by: Lalit Mohan
 
